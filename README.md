@@ -1,2 +1,2 @@
 # Repositorio Local
- Repositorio local
+ Primeiro repositório de Git e GitHub.
